@@ -1,0 +1,6 @@
+alembic~=1.7.4
+pymysql
+sqlalchemy~=1.4.26
+fastapi~=0.70.0
+uvicorn==0.15.0
+pydantic~=1.8.2
